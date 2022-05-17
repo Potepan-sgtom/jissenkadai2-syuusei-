@@ -1,0 +1,23 @@
+/*題名*/
+h3 {
+    font-size: 30px;
+    border-bottom: 4px solid #6E6636;
+    display: inline-block;
+}
+
+/*数字*/
+
+ p {
+    font-size: 100px;
+    color: black;
+}
+
+/*ボタン*/
+.button {
+  width: 100px;
+  height: 40px;
+  line-height: 40px;
+  background: #C0C0C0;
+  font-weight: bold;
+  cursor: pointer;
+}
